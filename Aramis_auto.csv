@@ -1,20 +1,12 @@
-Nom,Prix,Garantie,Mise_en_circulation,Type,Motorisation,Carburant,Consommation,Boîte de vitesse,Crit Aire,Emission,Couleur,Nbr_portes,Sellerie
-Dacia Duster,20 999€,20/09/2025,20/09/2022,Voiture 0 km,TCe 90 FAP 4x2,Essence,140 g/km - Cat. C,Boîte manuelle 6 rapports,5,Sellerie tissu Prestige,,,
-Peugeot 208,10 799€,12 mois,17/06/2016,Voiture d'occasion 58 270 km,1.0 PureTech 68 BVM5,Essence,"4,4 L/100km",Boîte manuelle 5 rapports,Crit'Air 1,102 g/km - Cat. B,Éligible,Blanc Banquise,5
-Ford PUMA,26 699€,01/11/2024,01/11/2022,Voiture 0 km,1.0 EcoBoost 125 ch mHEV S&S Powershift,Micro-hybride essence,129 g/km - Cat. C,Boîte automatique 7 rapports,5,Sellerie tissu noir,,,
-Peugeot 3008,13 499€,12 mois,16/06/2014,Voiture d'occasion 103 364 km,2.0 HDi 150 BVM6,Diesel,Boîte manuelle 6 rapports,Boîte manuelle 6 rapports,139 g/km - Cat. C,Gris Aluminium,5,Sellerie Tissu,
-Peugeot 2008,12 299€,12 mois,30/10/2014,Voiture d'occasion 36 327 km,1.6 e-HDi 92 BVM5,Diesel,4 L/100km,Boîte manuelle 5 rapports,Crit'Air 2,103 g/km - Cat. B,Brun Mahaka,5,Sellerie Cuir/Tissu
-Opel Corsa Nouvelle,20 799€,12/08/2024,12/08/2022,Voiture 0 km,1.2 Turbo 100 ch BVA8,Essence,123 g/km - Cat. C,Boîte automatique 8 rapports,Noir Karbon,5,Sellerie Imagination Mixte TEP/Tissu Captain Blue / Mistral (Bleu Marine/Noir),,
-Peugeot 308,9 999€,12 mois,31/01/2013,Voiture d'occasion 107 295 km,1.6 e-HDi 112 BVM6,Diesel,Boîte manuelle 6 rapports,Boîte manuelle 6 rapports,109 g/km - Cat. B,Gris Aluminium,5,Sellerie Tissu,
-Citroën C3,10 999€,12 mois,08/01/2014,Voiture d'occasion 90 236 km,1.4 HDi 70 BMP5,Diesel,Boîte automatique 5 rapports,Boîte automatique 5 rapports,87 g/km - Cat. A,Bleu Encre,5,Sellerie Tissu,
-Toyota Aygo X,,22/09/2025,22/09/2022,Voiture 0 km,1.0 VVT-i 72,Essence,108 g/km - Cat. B,Boîte manuelle 5 rapports,Blanc Pur (040),5,Sellerie tissu noir,,
-Renault Clio 4,10 899€,12 mois,17/10/2014,Voiture d'occasion 77 911 km,1.5 dCi 75 BVM5,Diesel,Boîte manuelle 5 rapports,Boîte manuelle 5 rapports,95 g/km - Cat. A,Blanc Glacier,5,Sellerie Tissu,
-Dacia Sandero,9 299€,12 mois,11/06/2015,Voiture d'occasion 112 639 km,0.9 TCe 90 BVM5,Essence,5 L/100km,Boîte manuelle 5 rapports,Crit'Air 1,116 g/km - Cat. B,Bleu Cosmos,5,Sellerie Tissu
-Peugeot 208 Nouvelle,23 899€,28/07/2024,29/07/2022,Voiture 0 km,BlueHDi 100 S S BVM6,Diesel,Crit'Air 2,Boîte manuelle 6 rapports,Rouge Elixir,5,Sellerie Tri matière Tissu CAPY/TEP surpiqûres Vert Adamite,,
-Renault Captur,12 799€,12 mois,22/11/2018,Voiture d'occasion 72 402 km,0.9 TCe 90 BVM5,Essence,Boîte manuelle 5 rapports,Boîte manuelle 5 rapports,113 g/km - Cat. B,Ivoire,5,Sellerie Tissu,
-Volkswagen Polo,10 999€,12 mois,17/06/2016,Voiture d'occasion 141 288 km,1.2 TSI 90 BVM5,Essence,Boîte manuelle 5 rapports,Boîte manuelle 5 rapports,107 g/km - Cat. B,Éligible,Blanc Pur,5,Sellerie Tissu
-Renault Twingo 3,8 999€,12 mois,16/02/2016,Voiture d'occasion 66 957 km,1.0 SCe 70 BVM5,Essence,"4,6 L/100km",Boîte manuelle 5 rapports,Crit'Air 1,105 g/km - Cat. B,Éligible,Brun Cappuccino,5
-Fiat 500,9 499€,12 mois,29/04/2013,Voiture d'occasion 74 827 km,1.2 69 BVM5,Essence,Boîte manuelle 5 rapports,Boîte manuelle 5 rapports,119 g/km - Cat. B,Gris Electroclash,3,Sellerie Tissu,
-Renault Clio 5,18 999€,20/09/2024,20/09/2022,Voiture 0 km,TCe 90,Essence,120 g/km - Cat. B,Boîte manuelle 6 rapports,Rouge Flamme (NNP),5,Sellerie tissu Noir avec motifs surpiqués,,
-Nissan Qashqai,15 499€,12 mois,05/01/2015,Voiture d'occasion 75 904 km,1.2 DIG-T 115 BVM6,Essence,Boîte manuelle 6 rapports,Boîte manuelle 6 rapports,129 g/km - Cat. C,Rouge,5,Sellerie Tissu,
-Volkswagen Golf 7,15 499€,12 mois,25/07/2015,Voiture d'occasion 115 225 km,1.4 TSI 125 DSG7,Essence,Boîte automatique 7 rapports,Boîte automatique 7 rapports,116 g/km - Cat. B,Blanc Pur,3,Sellerie Tissu,
+Nom,Prix,Mise_en_circulation,Première Main,Kilometrage,Carburant,Boîte de vitesse,Puissance fiscale,Puissance_din
+BMW X1,23480,01-07-2016,1,94500,Diesel,Boîte automatique,8,150
+PEUGEOT 208,8890,09-07-2013,1,144300,Diesel,Boîte automatique,3,68
+KIA RIO,9880,12-04-2016,1,65200,Essence,Boîte manuelle,5,85
+AUDI RS Q3,27480,20-03-2014,1,175300,Essence,Boîte automatique,21,310
+PORSCHE CAYENNE,27880,26-07-2010,1,139000,Diesel,Boîte automatique,15,240
+CHEVROLET AVEO,5480,30-06-2009,1,85000,Essence,Boîte manuelle,5,84
+CITROEN C3,6880,07-09-2015,1,134000,Diesel,Boîte manuelle,4,99
+CITROEN GRAND C4 SPACETOURER,19980,23-07-2018,1,95700,Essence,Boîte automatique,9,165
+INFINITI Q30,21880,23-11-2016,1,32700,Diesel,Boîte automatique,9,170
+KIA CEED,22480,15-03-2019,1,29000,Essence,Boîte automatique,7,140
+VOLKSWAGEN COCCINELLE,13480,25-04-2013,1,147000,Essence,Boîte automatique,6,105
